@@ -8,9 +8,25 @@ KURA ile ilgili soru, öneri veya sorunlarınız için geliştirici ile iletişi
 
 **Geliştirici / Developer:** mu73
 
+---
+
+# KURA: Raffle & Decision
+
+KURA is a simple and impartial raffle and decision-making application designed to help with everyday choices.
+
+## Support
+
+For questions, suggestions, or issues regarding KURA, you may contact the developer.
+
+**Developer:** mu73
+
+---
+
 ## Gizlilik / Privacy
 
-KURA'nın gizlilik politikasına bu sitedeki Privacy Policy sayfasından ulaşabilirsiniz.
+KURA'nın Gizlilik Politikası / KURA Privacy Policy:
+
+[**Gizlilik Politikası / Privacy Policy**](privacy-policy.md)
 
 ---
 
