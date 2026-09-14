@@ -26,7 +26,7 @@ For questions, suggestions, or issues regarding KURA, you may contact the develo
 
 KURA'nın Gizlilik Politikası / KURA Privacy Policy:
 
-[**Gizlilik Politikası / Privacy Policy**](privacy-policy.md)
+[**Gizlilik Politikası / Privacy Policy**](privacy-policy.html)
 
 ---
 
